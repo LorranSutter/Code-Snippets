@@ -5,7 +5,6 @@
 	padding: 24px;
 	background-color: #556380;
 	border-radius: 10px;
-	color: red;
 }
 
 .login_container .form {
@@ -13,7 +12,6 @@
 	flex-direction: column;
 	align-items: center;
 	height: 75%;
-	color: red;
 }
 
 .login_container .form * {
@@ -23,8 +21,8 @@
 
 .login_container .form h1 {
 	color: #9dadcc;
-    font-weight: normal;
-    font-size: 56px;
+	font-weight: normal;
+	font-size: 56px;
 }
 
 .login_container .form input::placeholder {
@@ -45,7 +43,7 @@
 	outline: none;
 }
 
-.login_container .form button {
+button {
 	height: 70px;
 
 	margin: 5px 0 0 0;
@@ -54,18 +52,18 @@
 	font-weight: bold;
 	font-size: 24px;
 	border-radius: 5px;
-    border: none;
-    outline: none;
+	border: none;
+	outline: none;
 
 	transition: 0.2s;
 }
 
-.login_container .form button:hover {
+button:hover {
 	transform: translate(0%, 5%) scale(1.03);
 	cursor: pointer;
 }
 
-.login_container .form .buttons {
-	display: flex;
-	justify-content: space-between;
+.message {
+	color: white;
+	font-weight: bold;
 }
