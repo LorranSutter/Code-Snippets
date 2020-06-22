@@ -1,3 +1,5 @@
+@import './style.css';
+
 .box2 {
 	overflow: auto;
 	overflow-x: scroll;
@@ -6,25 +8,26 @@
 
 /* width */
 .box2::-webkit-scrollbar {
-	width: 8px;
-	height: 8px;
+	width: var(--thumb-width);
+	height: var(--thumb-height);
 }
 
 /* Track */
 .box2::-webkit-scrollbar-track {
-	background-color: rgba(46, 50, 58, 0.5);
+	background-color: var(--track-bg-color);
 }
 
+/* Corner */
 .box2::-webkit-scrollbar-corner {
-	background-color: #1f91dd;
+	background-color: var(--thumb-corner-color);
 }
 
 /* Handle */
 .box2::-webkit-scrollbar-thumb {
-	background-color: #1f91dd;
+	background-color: var(--thumb-corner-color);
 	border: none;
 }
 
 .box2::-webkit-scrollbar-thumb:hover {
-	background-color: #4998cc;
+	background-color: var(--thumb-hover-color);
 }
