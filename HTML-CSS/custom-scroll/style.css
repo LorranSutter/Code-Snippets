@@ -1,0 +1,30 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 400px 400px;
+    grid-template-rows: auto;
+    column-gap: 10px;
+    row-gap: 10px;
+	
+	align-items: center;
+	justify-content: center;
+	min-height: 100vh;
+	background-color: #282c34;
+	color: rgb(204, 204, 204);
+}
+
+.box {
+	padding: 24px;
+	height: 400px;
+	width: 400px;
+	border-radius: 10px 0 0 10px;
+
+    font-weight: 500;
+	text-align: justify;
+    background-color: #424955;
+    box-sizing: border-box;
+}

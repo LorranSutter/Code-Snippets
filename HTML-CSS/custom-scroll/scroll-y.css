@@ -1,0 +1,24 @@
+.box1 {
+	overflow: auto;
+	overflow-y: scroll;
+}
+
+/* width */
+.box1::-webkit-scrollbar {
+	width: 8px;
+}
+
+/* Track */
+.box1::-webkit-scrollbar-track {
+	background-color: rgba(46, 50, 58, 0.5);
+}
+
+/* Handle */
+.box1::-webkit-scrollbar-thumb {
+	background-color: #1f91dd;
+	border: none;
+}
+
+.box1::-webkit-scrollbar-thumb:hover {
+	background-color: #4998cc;
+}
