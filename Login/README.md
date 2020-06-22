@@ -16,12 +16,13 @@ PRIVATE_KEY=STRONG_PRIVATE_KEY
 MONGODB_URI_DEV="YOUR_PASSWORD"
 ```
 
-Install dependencies and run the project in two terminals:
+Install dependencies, populate the database with basic user info and run the project in two terminals:
 
 ```sh
 # backend
 cd backend
 yarn
+yarn populate
 yarn start
 
 # frontend
