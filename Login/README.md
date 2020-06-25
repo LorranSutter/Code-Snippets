@@ -13,7 +13,7 @@ Set the following environment variables in _.env_ file:
 
 PORT=5000
 PRIVATE_KEY=STRONG_PRIVATE_KEY
-MONGODB_URI_DEV="YOUR_PASSWORD"
+MONGODB_URI_DEV="YOUR_MONGODB_URI"
 ```
 
 Install dependencies, populate the database with basic user info and run the project in two terminals:
