@@ -1,0 +1,32 @@
+@import "../global.css";
+@import "./animation.css";
+
+.container {
+	display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+
+.container div {
+    display: flex;
+	margin: 10px;
+}
+
+.container div h1 {
+	margin-right: auto;
+}
+
+.container button {
+	width: 150px;
+	height: 50px;
+	margin: 0 10px;
+
+	background-color: var(--main-button-color);
+	border: none;
+	border-radius: 10px;
+	outline: none;
+	font-weight: bold;
+	font-size: 16px;
+
+	transition: 0.3s;
+}
