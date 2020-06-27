@@ -1,4 +1,4 @@
-@import './style.css';
+@import '../global.css';
 
 .box1 {
 	overflow: auto;
