@@ -1,29 +1,41 @@
 .scale .scalexy:hover {
-    transform: scale(1.05);
+	transform: scale(1.05);
 }
 
 .scale .scalex-y:hover {
-    transform: scale(1.1,1.3);
+	transform: scale(1.1, 1.3);
 }
 
 .scale .scalex:hover {
-    transform: scaleX(1.3);
+	transform: scaleX(1.3);
 }
 
 .scale .scaley:hover {
-    transform: scaleY(1.3);
+	transform: scaleY(1.3);
 }
 
 .translate .translatex-y:hover {
 	transform: translate(10px, 10px);
 }
 
+.translate .translateMinusX-y:hover {
+	transform: translate(-10px, -10px);
+}
+
 .translate .translatex:hover {
 	transform: translateX(10px);
 }
 
+.translate .translateMinusX:hover {
+	transform: translateX(-10px);
+}
+
 .translate .translatey:hover {
 	transform: translateY(10px);
+}
+
+.translate .translateMinusY:hover {
+	transform: translateY(-10px);
 }
 
 .rotate .rotateAngle:hover {
@@ -32,4 +44,40 @@
 
 .rotate .rotateMinusAngle:hover {
 	transform: rotate(-20deg);
+}
+
+.rotate .rotatex:hover {
+	transform: rotateX(45deg);
+}
+
+.rotate .rotatey:hover {
+	transform: rotateY(45deg);
+}
+
+.rotate .rotatez:hover {
+	transform: rotateZ(20deg);
+}
+
+.skew .skewx-y:hover {
+	transform: skew(10deg, 10deg);
+}
+
+.skew .skewMinusX-y:hover {
+	transform: skew(-10deg, -10deg);
+}
+
+.skew .skewx:hover {
+	transform: skewX(10deg);
+}
+
+.skew .skewMinusX:hover {
+	transform: skewX(-10deg);
+}
+
+.skew .skewy:hover {
+	transform: skewY(10deg);
+}
+
+.skew .skewMinusY:hover {
+	transform: skewY(-10deg);
 }
