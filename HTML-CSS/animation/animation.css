@@ -2,6 +2,10 @@
 	transform: scale(1.05);
 }
 
+.scale .scaleSmallerXy:hover {
+	transform: scale(0.9);
+}
+
 .scale .scalex-y:hover {
 	transform: scale(1.1, 1.3);
 }
