@@ -5,11 +5,14 @@ const login_validator = require('../middleware/loginValidator');
 const { checkLogin } = require('../middleware/auth');
 const { validate } = require('../middleware/validate');
 
-const routes = express.Router();
+const router = express.Router();
 
-routes.post('/login', login_validator.login, validate, login_controller.login);
+router.post('/login', login_validator.login, validate, login_controller.login);
 
-// Other route just to check auth token
-routes.get('/otherRoute', checkLogin, login_controller.otherRoute);
+// Other route just to check auth token GET
+router.get('/otherRouteGet', checkLogin, login_controller.otherRouteGet);
 
-module.exports = routes;
+// Other route just to check auth token POST
+router.post('/otherRoutePost', login_controller.otherRoutePost);
+
+module.exports = router;

@@ -26,7 +26,12 @@ exports.login = async (req, res) => {
     res.status(200).json({ authToken });
 }
 
-// Other route just to check auth token
-exports.otherRoute = (req, res) => {
-    res.status(200).json({ message: 'Other route' });
+// Other route just to check auth token GET
+exports.otherRouteGet = (req, res) => {
+    res.status(200).json({ message: 'Other route GET' });
+}
+
+// Other route just to check auth token POST
+exports.otherRoutePost = (req, res) => {
+    res.status(200).json({ message: 'Other route POST' });
 }

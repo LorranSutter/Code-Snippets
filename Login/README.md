@@ -1,7 +1,7 @@
 # Login with JWT authentication
 
 <p align="center">
-<img src="https://res.cloudinary.com/lorransutter/image/upload/v1592775492/Code_snippets/Login.gif" alt="Login preview"/>
+<img src="https://res.cloudinary.com/lorransutter/image/upload/v1595111021/Code_snippets/Login.gif" alt="Login preview"/>
 </p>
 
 ### :runner: How to run
