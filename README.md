@@ -4,4 +4,4 @@ Set of several useful code snippets to help me when I have to rewrite some code 
 
 ## :cookie: Credits
 
-Thank you [Majid](https://github.com/majid-T) for inspiring me to create this repository!
+Thank you :heart: [Majid](https://github.com/majid-T) for inspiring me to create this repository!
