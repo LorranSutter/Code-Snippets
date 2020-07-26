@@ -1,4 +1,4 @@
-# :book: References and Technologies :computer:
+# :book: Resources and Technologies :computer:
 
 List of references and technologies, along with its short description, so as to create a pattern of documentation in my repositories.
 
