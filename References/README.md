@@ -34,6 +34,7 @@ List of references and technologies, along with its short description, so as to 
     - [Ganache CLI](https://github.com/trufflesuite/ganache-cli) - blockchain emulator
     - [Remix](https://remix.ethereum.org/) - suite of tools for smart contracts
     - [Metamask](https://metamask.io/) - crypto wallet
+    - [Open Zeppelin Contracts](https://www.npmjs.com/package/@openzeppelin/contracts) - a library for secure smart contract development
 
 4. Backend
 
