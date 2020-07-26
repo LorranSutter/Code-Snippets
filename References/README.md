@@ -30,8 +30,10 @@ List of references and technologies, along with its short description, so as to 
     - [Solidity Coverage](https://www.npmjs.com/package/solidity-coverage) - code coverage for Solidity testing
     - [Solium](https://www.npmjs.com/package/solium) - Solidity linter to analyse code for style & security issues
     - [Web3.js](https://web3js.readthedocs.io/) - interact with smart contracts
+    - [Ethers.js](https://docs.ethers.io/) - interact with smart contracts
     - [Ganache CLI](https://github.com/trufflesuite/ganache-cli) - blockchain emulator
     - [Remix](https://remix.ethereum.org/) - suite of tools for smart contracts
+    - [Metamask](https://metamask.io/) - crypto wallet
 
 4. Backend
 
