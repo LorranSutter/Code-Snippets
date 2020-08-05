@@ -59,6 +59,8 @@ List of references and technologies, along with its short description, so as to 
     - [Socket.IO](https://socket.io/) - real time engine using web sockers
     - [Nodemon](https://www.npmjs.com/package/nodemon) - monitor and restart server after changes
     - [Supertest](https://github.com/visionmedia/supertest) - HTTP assertions provider
+    - [Cors](https://www.npmjs.com/package/cors) - provides a middleware that can be used to enable Cross-origin resource sharing
+    - [TS node dev](https://www.npmjs.com/package/ts-node-dev) - monitor and restart server after changes
 
 5. Frontend
 
