@@ -69,7 +69,6 @@ List of references and technologies, along with its short description, so as to 
     - [JavaScript](https://www.w3schools.com/js/) - high-level, often just-in-time compiled, and multi-paradigm programming language
     - [JQuery](https://jquery.com/) - JS library designed to simplify HTML DOM interacto
     - [ReactJS](https://reactjs.org/) - frontend library
-    - [React Navigation](https://reactnavigation.org/) - routing and navigation for react apps
     - [React Icons](https://www.npmjs.com/package/react-icons) - icons library
     - [React router dom](https://www.npmjs.com/package/react-router-dom) - routing and navigation for react apps
     - [React-cookie](https://www.npmjs.com/package/react-cookie) - cookie interaction for React applications
@@ -83,6 +82,7 @@ List of references and technologies, along with its short description, so as to 
     - [React Native](https://reactnative.dev/) - framework for mobile development
     - [Expo](https://expo.io/) - tool for helping mobile development with react native
     - [React Native Maps](https://github.com/react-native-community/react-native-maps) - map component for iOS and Android
+    - [React Navigation](https://reactnavigation.org/) - routing and navigation for react native apps
 
 7. Other tools
 
