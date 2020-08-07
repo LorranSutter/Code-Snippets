@@ -83,6 +83,7 @@ List of references and technologies, along with its short description, so as to 
     - [Expo](https://expo.io/) - tool for helping mobile development with react native
     - [React Native Maps](https://github.com/react-native-community/react-native-maps) - map component for iOS and Android
     - [React Navigation](https://reactnavigation.org/) - routing and navigation for react native apps
+    - [Expo Async Storage](https://docs.expo.io/versions/latest/sdk/async-storage/) - local key-value storage API
 
 7. Other tools
 
