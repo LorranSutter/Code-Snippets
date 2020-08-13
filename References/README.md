@@ -94,3 +94,5 @@ List of references and technologies, along with its short description, so as to 
     - [IPFS](https://ipfs.io/) - InterPlanetary File System
     - [IPFS http client](https://www.npmjs.com/package/ipfs-http-client) - IPFS for client side
     - [Detect file type](https://www.npmjs.com/package/detect-file-type) - file type detection
+    - [Notion](https://www.notion.so/) - easy to use workspace
+    - [Insomnia](https://insomnia.rest/) - API explorer
