@@ -71,9 +71,10 @@ List of references and technologies, along with its short description, so as to 
     - [ReactJS](https://reactjs.org/) - frontend library
     - [React Icons](https://www.npmjs.com/package/react-icons) - icons library
     - [React router dom](https://www.npmjs.com/package/react-router-dom) - routing and navigation for react apps
-    - [React-cookie](https://www.npmjs.com/package/react-cookie) - cookie interaction for React applications
+    - [React cookie](https://www.npmjs.com/package/react-cookie) - cookie interaction for React applications
     - [React Leaflet](https://react-leaflet.js.org/) - map component based on Leaflet
     - [React dropzone](https://react-dropzone.js.org/) - create zone to drop files
+    - [React collapsed](https://www.npmjs.com/package/react-collapsed) - a custom hook for creating expand/collapse components
     - [Axios](https://www.npmjs.com/package/axios) - HTTP requests
     - [Pug](https://pugjs.org/) - template engine for Node.js and for the browser
 
