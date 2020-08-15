@@ -97,3 +97,4 @@ List of references and technologies, along with its short description, so as to 
     - [Detect file type](https://www.npmjs.com/package/detect-file-type) - file type detection
     - [Notion](https://www.notion.so/) - easy to use workspace
     - [Insomnia](https://insomnia.rest/) - API explorer
+    - [Google Cloud Platform](https://cloud.google.com/) - cloud computing services from Google
