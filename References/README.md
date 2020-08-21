@@ -46,7 +46,6 @@ List of references and technologies, along with its short description, so as to 
     - [Sqlite](https://www.sqlite.org/index.html) - simple SQL database engine
     - [Celebrate](https://github.com/arb/celebrate) - middleware to validate data
     - [ESlint](https://eslint.org/) - pluggable JS linter
-    - [Express.js](http://expressjs.com/) - web application framework
     - [MongoDB](https://www.mongodb.com/) - NoSQL database
     - [Mongoose](https://mongoosejs.com/) - object data modeling (ODM) library for MongoDB and Node.js
     - [Async](https://caolan.github.io/async/v3/) - library to perform asynchronous operations
@@ -61,6 +60,8 @@ List of references and technologies, along with its short description, so as to 
     - [Supertest](https://github.com/visionmedia/supertest) - HTTP assertions provider
     - [Cors](https://www.npmjs.com/package/cors) - provides a middleware that can be used to enable Cross-origin resource sharing
     - [TS node dev](https://www.npmjs.com/package/ts-node-dev) - monitor and restart server after changes
+    - [TS test](https://www.npmjs.com/package/ts-jest) - uses Jest to test Typescript code
+    - [TSlint](https://www.npmjs.com/package/tslint) - pluggable TS linter
 
 5. Frontend
 
