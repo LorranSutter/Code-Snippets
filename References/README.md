@@ -99,3 +99,5 @@ List of references and technologies, along with its short description, so as to 
     - [Notion](https://www.notion.so/) - easy to use workspace
     - [Insomnia](https://insomnia.rest/) - API explorer
     - [Google Cloud Platform](https://cloud.google.com/) - cloud computing services from Google
+    - [Figma](https://www.figma.com/) - digital design and prototyping tool
+    - [Mapbox](https://www.mapbox.com/) - an open source mapping platform for custom designed maps
