@@ -62,6 +62,9 @@ List of references and technologies, along with its short description, so as to 
     - [TS node dev](https://www.npmjs.com/package/ts-node-dev) - monitor and restart server after changes
     - [TS test](https://www.npmjs.com/package/ts-jest) - uses Jest to test Typescript code
     - [TSlint](https://www.npmjs.com/package/tslint) - pluggable TS linter
+    - [ExpressJS Async Errors](https://www.npmjs.com/package/express-async-errors) - handle async errors in express
+    - [Yup](https://www.npmjs.com/package/yup) - data validation
+    - [Typeorm](https://www.npmjs.com/package/typeorm) - ORM for typescript
 
 5. Frontend
 
