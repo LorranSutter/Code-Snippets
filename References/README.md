@@ -85,10 +85,13 @@ List of references and technologies, along with its short description, so as to 
 
 6. Mobile
     - [React Native](https://reactnative.dev/) - framework for mobile development
-    - [Expo](https://expo.io/) - tool for helping mobile development with react native
     - [React Native Maps](https://github.com/react-native-community/react-native-maps) - map component for iOS and Android
     - [React Navigation](https://reactnavigation.org/) - routing and navigation for react native apps
+    - [React Native Gesture Handler](https://www.npmjs.com/package/react-native-gesture-handler) - provides touch and gestures
+    - [Expo](https://expo.io/) - tool for helping mobile development with react native
     - [Expo Async Storage](https://docs.expo.io/versions/latest/sdk/async-storage/) - local key-value storage API
+    - [Expo Fonts](https://www.npmjs.com/package/expo-font) - load fonts at runtime
+    - [Expo Image Picker](https://www.npmjs.com/package/expo-image-picker) - provides UI to acccess images and videos
 
 7. Other tools
 
