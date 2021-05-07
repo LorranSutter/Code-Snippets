@@ -23,6 +23,7 @@ List of references and technologies, along with its short description, so as to 
 
     - [Solidity](https://solidity.readthedocs.io/) - smart contract programming language
     - [Truffle](https://www.trufflesuite.com/) - dApp environment
+    - [Hardhat](https://hardhat.org/) - dApp environment
     - [Ethereumjs-util](https://www.npmjs.com/package/ethereumjs-util) - utility functions for Ethereum
     - [Truffle-assertions](https://www.npmjs.com/package/truffle-assertions) - additional assertions for truffle
     - [Bignumber.js](https://www.npmjs.com/package/bignumber.js) - library to handle big
@@ -54,6 +55,8 @@ List of references and technologies, along with its short description, so as to 
     - [JWT. IO](https://jwt.io/) - JSON Web Tokens to allow, decode, verify and generate JWT
     - [Dotenv](https://www.npmjs.com/package/dotenv) - loads environment variables from a .env file
     - [Jest](https://jestjs.io/) - library for tests
+    - [Chai](https://www.chaijs.com/) - library for tests
+    - [Mocha](https://mochajs.org/) - library for tests
     - [Moment.js](https://momentjs.com/) - parsing, validating, manipulating and displaying dates and times
     - [Socket.IO](https://socket.io/) - real time engine using web sockers
     - [Nodemon](https://www.npmjs.com/package/nodemon) - monitor and restart server after changes
