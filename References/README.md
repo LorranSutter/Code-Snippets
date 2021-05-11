@@ -36,6 +36,7 @@ List of references and technologies, along with its short description, so as to 
     - [Remix](https://remix.ethereum.org/) - suite of tools for smart contracts
     - [Metamask](https://metamask.io/) - crypto wallet
     - [Open Zeppelin Contracts](https://www.npmjs.com/package/@openzeppelin/contracts) - a library for secure smart contract development
+    - [Typechain](https://www.npmjs.com/package/@typechain/hardhat) - generate TypeScipt bindings
 
 4. Backend
 
