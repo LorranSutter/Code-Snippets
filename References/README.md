@@ -36,7 +36,10 @@ List of references and technologies, along with its short description, so as to 
     - [Remix](https://remix.ethereum.org/) - suite of tools for smart contracts
     - [Metamask](https://metamask.io/) - crypto wallet
     - [Open Zeppelin Contracts](https://www.npmjs.com/package/@openzeppelin/contracts) - a library for secure smart contract development
+    - [Open Zeppelin Test Environment](https://www.npmjs.com/package/@openzeppelin/test-environment) - fast environment setup for Ethereum smart contract testing
+    - [Open Zeppelin Test Helpers](https://www.npmjs.com/package/@openzeppelin/test-helpers) - assertion library for Ethereum smart contract testing
     - [Typechain](https://www.npmjs.com/package/@typechain/hardhat) - generate TypeScipt bindings
+    - [Truffle Flattener](https://www.npmjs.com/package/truffle-flattener) - concats solidity files in one single file
 
 4. Backend
 
