@@ -40,6 +40,7 @@ List of references and technologies, along with its short description, so as to 
     - [Open Zeppelin Test Helpers](https://www.npmjs.com/package/@openzeppelin/test-helpers) - assertion library for Ethereum smart contract testing
     - [Typechain](https://www.npmjs.com/package/@typechain/hardhat) - generate TypeScipt bindings
     - [Truffle Flattener](https://www.npmjs.com/package/truffle-flattener) - concats solidity files in one single file
+    - [Solhint](https://www.npmjs.com/package/solhint) - security and style guide validator for Solidity
 
 4. Backend
 
