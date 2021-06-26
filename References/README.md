@@ -80,6 +80,7 @@ List of references and technologies, along with its short description, so as to 
     - [CSS](https://www.w3schools.com/css/) - style sheet language used for describing the presentation of a document
     - [JavaScript](https://www.w3schools.com/js/) - high-level, often just-in-time compiled, and multi-paradigm programming language
     - [JQuery](https://jquery.com/) - JS library designed to simplify HTML DOM interacto
+    - [Sass](https://sass-lang.com/documentation/syntax) - CSS pre-processor with syntax advancements
     - [ReactJS](https://reactjs.org/) - frontend library
     - [React Icons](https://www.npmjs.com/package/react-icons) - icons library
     - [React router dom](https://www.npmjs.com/package/react-router-dom) - routing and navigation for react apps
