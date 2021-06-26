@@ -89,6 +89,7 @@ List of references and technologies, along with its short description, so as to 
     - [React collapsed](https://www.npmjs.com/package/react-collapsed) - a custom hook for creating expand/collapse components
     - [Axios](https://www.npmjs.com/package/axios) - HTTP requests
     - [Pug](https://pugjs.org/) - template engine for Node.js and for the browser
+    - [Class names](https://www.npmjs.com/package/classnames) - conditionally join classNames together
 
 
 6. Mobile
