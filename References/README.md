@@ -91,6 +91,7 @@ List of references and technologies, along with its short description, so as to 
     - [Axios](https://www.npmjs.com/package/axios) - HTTP requests
     - [Pug](https://pugjs.org/) - template engine for Node.js and for the browser
     - [Class names](https://www.npmjs.com/package/classnames) - conditionally join classNames together
+    - [useDapp](https://usedapp.io/) - framework for rapid DApp development
 
 
 6. Mobile
